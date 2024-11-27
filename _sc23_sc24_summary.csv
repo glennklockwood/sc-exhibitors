@@ -1,0 +1,575 @@
+canonical name,sc23 booth area sqft,sc24 booth area sqft,sqft increase
+dell technologies,1500.0,3200.0,1700.0
+korea semiconductor industry association,2500.0,900.0,-1600.0
+stulz,0.0,1600.0,1600.0
+hlrs,900.0,2500.0,1600.0
+usystems brand of legrand,400.0,2000.0,1600.0
+penguin solutions,2500.0,900.0,-1600.0
+nvidia,100.0,1500.0,1400.0
+carahsoft,225.0,1500.0,1275.0
+vertiv,400.0,1600.0,1200.0
+sourcecode,400.0,1500.0,1100.0
+arc compute,2000.0,3000.0,1000.0
+oracle,1000.0,2000.0,1000.0
+netapp,0.0,900.0,900.0
+iris energy,100.0,1000.0,900.0
+supermicro,1600.0,2500.0,900.0
+samsung semiconductor inc,0.0,900.0,900.0
+viridien,2000.0,1200.0,-800.0
+delta electronics americas ltd,0.0,800.0,800.0
+midas immersion cooling,100.0,900.0,800.0
+ansys,0.0,800.0,800.0
+gigabyte,256.0,900.0,644.0
+symbiosys alliance,600.0,0.0,-600.0
+wistron corporation,0.0,600.0,600.0
+tenstorrent,600.0,0.0,-600.0
+micron technology,0.0,600.0,600.0
+ami,0.0,600.0,600.0
+valvoline global operations,0.0,600.0,600.0
+suse llc,600.0,0.0,-600.0
+schneider electric,0.0,600.0,600.0
+pegatron,0.0,600.0,600.0
+nebius,0.0,600.0,600.0
+airedale by modine,0.0,600.0,600.0
+seagate,400.0,1000.0,600.0
+boundary electric,0.0,600.0,600.0
+liteon,900.0,1500.0,600.0
+asus,225.0,800.0,575.0
+sambanova systems,256.0,800.0,544.0
+intel corporation,1500.0,2000.0,500.0
+dug,100.0,600.0,500.0
+coreweave,900.0,400.0,-500.0
+cooler master co ltd,1500.0,1000.0,-500.0
+aws,2500.0,2000.0,-500.0
+mangoboost inc,100.0,600.0,500.0
+im,100.0,600.0,500.0
+z by hp,400.0,0.0,-400.0
+broadcom,0.0,400.0,400.0
+one stop systems,600.0,200.0,-400.0
+friendliai,400.0,0.0,-400.0
+snia,400.0,0.0,-400.0
+general dynamics,400.0,0.0,-400.0
+illinois tech,400.0,0.0,-400.0
+edb,0.0,400.0,400.0
+prolabs,0.0,400.0,400.0
+ranovus,0.0,400.0,400.0
+saiheat,0.0,400.0,400.0
+arm inc,400.0,0.0,-400.0
+storj valdiai,0.0,400.0,400.0
+south carolina research computing consortium,0.0,400.0,400.0
+ori,0.0,400.0,400.0
+tennessee tech university,0.0,400.0,400.0
+eneos usa inc,0.0,400.0,400.0
+digitalocean,400.0,0.0,-400.0
+ionstreamai,0.0,400.0,400.0
+achronix semiconductor corporation,400.0,0.0,-400.0
+fast photonics inc,0.0,400.0,400.0
+fortuneone,0.0,400.0,400.0
+general dynamics information technology gdit,0.0,400.0,400.0
+cooltera limited,400.0,0.0,-400.0
+nyriad inc,400.0,0.0,-400.0
+hypertec,0.0,400.0,400.0
+mara,0.0,400.0,400.0
+strategic thermal labs,0.0,400.0,400.0
+cocolink,0.0,400.0,400.0
+ssstc,400.0,0.0,-400.0
+neuchips inc,400.0,0.0,-400.0
+nimbus data,400.0,0.0,-400.0
+exhibitor lounge,0.0,400.0,400.0
+inaf,0.0,400.0,400.0
+vast data,1600.0,1200.0,-400.0
+lambda,800.0,400.0,-400.0
+viking enterprise solutions,400.0,800.0,400.0
+data in science corporation,500.0,900.0,400.0
+partnership for advanced computing in europe prace,800.0,400.0,-400.0
+nvent,1200.0,1600.0,400.0
+ciq,600.0,1000.0,400.0
+pure storage,1600.0,1200.0,-400.0
+rittal,6.0,400.0,394.0
+qct,225.0,600.0,375.0
+ncar,900.0,600.0,-300.0
+qscale,300.0,0.0,-300.0
+google llc,1500.0,1200.0,-300.0
+ddn,900.0,600.0,-300.0
+submer,300.0,600.0,300.0
+hitachi vantara,600.0,900.0,300.0
+pasqal,100.0,400.0,300.0
+bluefors,100.0,400.0,300.0
+pier group llc,256.0,0.0,-256.0
+unifabrix,225.0,0.0,-225.0
+hpe,225.0,0.0,-225.0
+microchip technology inc,225.0,0.0,-225.0
+alabama supercomputer authority,100.0,300.0,200.0
+nndc new nordic data cooling,0.0,200.0,200.0
+storone,100.0,300.0,200.0
+megware computer,200.0,0.0,-200.0
+influx technologies limited,200.0,0.0,-200.0
+numerical algorithms group,200.0,0.0,-200.0
+crusoe,200.0,0.0,-200.0
+across sea projects,200.0,0.0,-200.0
+lightelligence,200.0,0.0,-200.0
+cocolink corp,200.0,0.0,-200.0
+itbl community,400.0,200.0,-200.0
+zutacore,200.0,400.0,200.0
+fujifilm data storage solutions,200.0,0.0,-200.0
+advanced computing center for research and education,1000.0,800.0,-200.0
+enfabrica,200.0,400.0,200.0
+renesas electronics america,0.0,200.0,200.0
+national radio astronomy observatory,200.0,0.0,-200.0
+aic inc,200.0,400.0,200.0
+arcitecta,200.0,400.0,200.0
+apaltek,400.0,200.0,-200.0
+kisti,1200.0,1000.0,-200.0
+dolphin interconnect solutions as,200.0,0.0,-200.0
+cscit center for science lumi,200.0,0.0,-200.0
+quantinuum,0.0,200.0,200.0
+boyd,200.0,400.0,200.0
+maxwell labs,200.0,0.0,-200.0
+cisco,0.0,200.0,200.0
+nag,0.0,200.0,200.0
+eticaag,0.0,200.0,200.0
+atnorth,200.0,0.0,-200.0
+dolphin interconnect solutions,0.0,200.0,200.0
+kaori heat treatment co ltd,0.0,200.0,200.0
+links foundation research center,0.0,200.0,200.0
+lessengers,0.0,200.0,200.0
+applied digital,0.0,200.0,200.0
+cunofs,200.0,0.0,-200.0
+aewin technologies co ltd,0.0,200.0,200.0
+dnotitia,0.0,200.0,200.0
+nscale,0.0,200.0,200.0
+accelsius,0.0,200.0,200.0
+aetina usa corporation,0.0,200.0,200.0
+link oregon,0.0,200.0,200.0
+npo tsukuba oss technical support center supercomputing japan,0.0,200.0,200.0
+flc technology,0.0,200.0,200.0
+memverge,200.0,0.0,-200.0
+the cloud minders,0.0,200.0,200.0
+gates,0.0,200.0,200.0
+nstda supercomputer center thaisc,200.0,0.0,-200.0
+sanyo denki america,0.0,200.0,200.0
+shenzhen gooxi information security co ltd,200.0,0.0,-200.0
+step computing dba outerbounds,0.0,200.0,200.0
+wisetek,200.0,0.0,-200.0
+rocky mountain advanced computing consortium rmacc,200.0,0.0,-200.0
+dmatrix,0.0,200.0,200.0
+world wide technology,0.0,200.0,200.0
+sealing technologies,0.0,200.0,200.0
+dicon fiberoptics,0.0,200.0,200.0
+phison technology,0.0,200.0,200.0
+parallel works,0.0,200.0,200.0
+infostream,0.0,200.0,200.0
+in win development usa inc,0.0,200.0,200.0
+volex inc,200.0,0.0,-200.0
+georgia state university,0.0,200.0,200.0
+csc it center for science lumi,0.0,200.0,200.0
+colorado school of mines,200.0,0.0,-200.0
+southco inc,0.0,200.0,200.0
+megware,0.0,200.0,200.0
+2crsi,600.0,400.0,-200.0
+georgia institute of technology,600.0,800.0,200.0
+siliconangle media inc,600.0,400.0,-200.0
+attendee lounge,600.0,400.0,-200.0
+microstar intl co ltd,200.0,400.0,200.0
+ibm,800.0,600.0,-200.0
+vdura,600.0,800.0,200.0
+jonhon,200.0,400.0,200.0
+nec corporation,400.0,600.0,200.0
+the university of tennessee,400.0,200.0,-200.0
+ddc,400.0,600.0,200.0
+nokia,400.0,600.0,200.0
+quandela,400.0,200.0,-200.0
+mississippi state university,600.0,800.0,200.0
+the ohio state university,200.0,400.0,200.0
+starlight,600.0,400.0,-200.0
+arista networks,400.0,600.0,200.0
+juniper networks,400.0,200.0,-200.0
+great plains network,600.0,400.0,-200.0
+pcisig,200.0,400.0,200.0
+hammerspace,400.0,600.0,200.0
+flatiron institute,400.0,600.0,200.0
+university of texas at dallas,400.0,600.0,200.0
+astar,225.0,400.0,175.0
+rescale,225.0,400.0,175.0
+lightmatter,225.0,400.0,175.0
+quantum machines,225.0,100.0,-125.0
+leading technology micro inc,0.0,100.0,100.0
+spectra7 microsystem ltd,0.0,100.0,100.0
+strangeworks,100.0,0.0,-100.0
+harting americas,0.0,100.0,100.0
+thermasol technology,0.0,100.0,100.0
+hiper global us,0.0,100.0,100.0
+ciphertex llc,0.0,100.0,100.0
+superna,0.0,100.0,100.0
+national black data processing associates,0.0,100.0,100.0
+fognitive,0.0,100.0,100.0
+mikros technologies,100.0,200.0,100.0
+pawsey,100.0,0.0,-100.0
+asa computers,100.0,0.0,-100.0
+general dynamics mission systems,0.0,100.0,100.0
+komprise,0.0,100.0,100.0
+syncious,100.0,0.0,-100.0
+schlegel electronic materials inc,0.0,100.0,100.0
+legrand,0.0,100.0,100.0
+unigen corporation,0.0,100.0,100.0
+swep north america,0.0,100.0,100.0
+us valve corporation,0.0,100.0,100.0
+the siemon company,100.0,0.0,-100.0
+spal automotive usa,0.0,100.0,100.0
+structuresource ltd,0.0,100.0,100.0
+tianqiao and chrissy chen institute,0.0,100.0,100.0
+cmno ltd,100.0,0.0,-100.0
+reserved,100.0,0.0,-100.0
+allion labs inc,100.0,0.0,-100.0
+security engineered machinery,0.0,100.0,100.0
+kandou,0.0,100.0,100.0
+liquidstack,0.0,100.0,100.0
+siemon,0.0,100.0,100.0
+computing research association,100.0,0.0,-100.0
+alliance technology group llc,100.0,0.0,-100.0
+gitlab,0.0,100.0,100.0
+toshiba digital solutions corporation,0.0,100.0,100.0
+lightsolver,0.0,100.0,100.0
+maybell quantum industries,0.0,100.0,100.0
+keysight,0.0,100.0,100.0
+kyoto university,200.0,100.0,-100.0
+beswick engineering,100.0,0.0,-100.0
+preferred networks inc,100.0,200.0,100.0
+lintes technology co ltd,0.0,100.0,100.0
+partec ag,0.0,100.0,100.0
+panmnesia inc,0.0,100.0,100.0
+advanced clustering technologies,100.0,200.0,100.0
+advantech corporation,100.0,200.0,100.0
+frazier deeter,0.0,100.0,100.0
+gmi cloud,0.0,100.0,100.0
+drivenets,100.0,200.0,100.0
+mansfield technologies,0.0,100.0,100.0
+bulk data centers as,100.0,0.0,-100.0
+sekisui chemical co ltd,0.0,100.0,100.0
+ses ai,0.0,100.0,100.0
+sinewave inc,0.0,100.0,100.0
+covalent,100.0,0.0,-100.0
+mila,0.0,100.0,100.0
+mazda computing,0.0,100.0,100.0
+magstor,0.0,100.0,100.0
+sliger designs,0.0,100.0,100.0
+amax,200.0,100.0,-100.0
+enet solutions,100.0,200.0,100.0
+grc,0.0,100.0,100.0
+mission critical group,0.0,100.0,100.0
+moosefs,0.0,100.0,100.0
+lutz network power group,0.0,100.0,100.0
+kitware inc,0.0,100.0,100.0
+permalert,0.0,100.0,100.0
+apcon inc,100.0,0.0,-100.0
+mba energy industrial,0.0,100.0,100.0
+rubrik inc,0.0,100.0,100.0
+biosit,100.0,0.0,-100.0
+red mountain solutions inc,0.0,100.0,100.0
+hive digital technologies ltd,0.0,100.0,100.0
+red hat,0.0,100.0,100.0
+recochemkost usa,0.0,100.0,100.0
+high performance software foundation,0.0,100.0,100.0
+rapt ai,0.0,100.0,100.0
+radian thermal products inc,0.0,100.0,100.0
+qubrid ai,0.0,100.0,100.0
+quantum collaborative arizona state university,0.0,100.0,100.0
+infraeo inc,0.0,100.0,100.0
+zktel coltd,0.0,100.0,100.0
+beijing top intelligent co ltd,100.0,0.0,-100.0
+quanta technology,0.0,100.0,100.0
+bladestackio,0.0,100.0,100.0
+formerica,0.0,100.0,100.0
+precision hose expansion joints,0.0,100.0,100.0
+jsm technology inc,0.0,100.0,100.0
+point software systems gmbh,0.0,100.0,100.0
+pliops america inc,0.0,100.0,100.0
+international business machines corporation,0.0,100.0,100.0
+innosilicon technology inc,0.0,100.0,100.0
+ryax technologies,0.0,100.0,100.0
+blueally technology solutions,0.0,100.0,100.0
+baxtel,0.0,100.0,100.0
+pmc technologies inc,100.0,0.0,-100.0
+clyso,0.0,100.0,100.0
+broadwing,0.0,100.0,100.0
+ncsa,900.0,800.0,-100.0
+covalent by agnostiq,0.0,100.0,100.0
+data center solutions,100.0,0.0,-100.0
+intelligent light,100.0,0.0,-100.0
+jmc global technologiesi lp,100.0,0.0,-100.0
+sdsc,800.0,900.0,100.0
+openpower foundation,100.0,0.0,-100.0
+smartsoc solutions inc,100.0,0.0,-100.0
+orthogone,100.0,0.0,-100.0
+panmnesia,100.0,0.0,-100.0
+aneo,0.0,100.0,100.0
+scientific computing world,100.0,0.0,-100.0
+center for translational data science open commons consortium,800.0,900.0,100.0
+sanyo denki,100.0,0.0,-100.0
+compal,300.0,400.0,100.0
+perifery,100.0,0.0,-100.0
+picotest,100.0,0.0,-100.0
+holmans usa corporation,100.0,0.0,-100.0
+gospower,100.0,0.0,-100.0
+gateworks corporation,100.0,0.0,-100.0
+slurm,900.0,1000.0,100.0
+anen power,0.0,100.0,100.0
+enterprise data group,100.0,0.0,-100.0
+ctg federal dmsi,0.0,100.0,100.0
+cantorai,0.0,100.0,100.0
+centralaxis,0.0,100.0,100.0
+brane technologies,0.0,100.0,100.0
+deepspace storage systems inc,100.0,0.0,-100.0
+dihuni,100.0,0.0,-100.0
+drycoolers,0.0,100.0,100.0
+drut technologies inc,0.0,100.0,100.0
+xelera technologies,100.0,0.0,-100.0
+denvr dataworks,0.0,100.0,100.0
+datacore,0.0,100.0,100.0
+ignitarium,100.0,0.0,-100.0
+data canopy,0.0,100.0,100.0
+darkstar hypercore,0.0,100.0,100.0
+dapustor corporation,0.0,100.0,100.0
+california institute of technology cacr,600.0,500.0,-100.0
+drc heat transfer,0.0,100.0,100.0
+wolley inc,100.0,0.0,-100.0
+hqs quantumsimulations gmbh,100.0,0.0,-100.0
+hpc systems inc,100.0,0.0,-100.0
+cudo ventures limited,0.0,100.0,100.0
+computer network information center of chinese academy of sciences,0.0,100.0,100.0
+chemours,0.0,100.0,100.0
+chelsio communications,0.0,100.0,100.0
+checkmk inc,0.0,100.0,100.0
+university of southern california,400.0,500.0,100.0
+sqream,100.0,0.0,-100.0
+swissbit ag,0.0,100.0,100.0
+aqt,0.0,100.0,100.0
+bolt graphics,0.0,100.0,100.0
+micas networks,100.0,0.0,-100.0
+quix quantum,100.0,0.0,-100.0
+storj,100.0,0.0,-100.0
+the networking and information technology research and development nitrd program,0.0,100.0,100.0
+american digital corporation ez blockchain,0.0,100.0,100.0
+jws technology,100.0,0.0,-100.0
+axelera ai,0.0,100.0,100.0
+axiado,0.0,100.0,100.0
+qant gmbh,100.0,0.0,-100.0
+alloy enterprises,0.0,100.0,100.0
+tuxera,200.0,100.0,-100.0
+alice bob,0.0,100.0,100.0
+kitware,100.0,0.0,-100.0
+mit press,100.0,0.0,-100.0
+tongyu electronics co ltd,100.0,200.0,100.0
+bacula systems corp,200.0,300.0,100.0
+accton technology,0.0,100.0,100.0
+atto technology,0.0,100.0,100.0
+qstar technologies inc,100.0,0.0,-100.0
+nexsan,100.0,0.0,-100.0
+ayar labs,225.0,200.0,-25.0
+kalray,225.0,200.0,-25.0
+sipearl,225.0,200.0,-25.0
+ntnu,100.0,100.0,0.0
+the institute of statistical mathematics ism,100.0,100.0,0.0
+exostellar,100.0,100.0,0.0
+inventec performance chemicals,100.0,100.0,0.0
+totalview by perforce,100.0,100.0,0.0
+malico inc,100.0,100.0,0.0
+nexgen analytics,100.0,100.0,0.0
+united states research software engineer association,100.0,100.0,0.0
+ucit,100.0,100.0,0.0
+xiss,100.0,100.0,0.0
+dynatron corporation,100.0,100.0,0.0
+hokkaido university,100.0,100.0,0.0
+t1nexus,100.0,100.0,0.0
+xinnor,100.0,100.0,0.0
+tuxcare,100.0,100.0,0.0
+ebara pumps americas corporation,100.0,100.0,0.0
+moreh,100.0,100.0,0.0
+tachyum inc,100.0,100.0,0.0
+tactical computing laboratories,100.0,100.0,0.0
+tatsuta electric wirecable coltd,100.0,100.0,0.0
+the george washington university,100.0,100.0,0.0
+kansai university,100.0,100.0,0.0
+energy efficient hpc working group,100.0,100.0,0.0
+bergen language design laboratory university of bergen,100.0,100.0,0.0
+bioteam inc,100.0,100.0,0.0
+bizlink technology inc,100.0,100.0,0.0
+berkeley communications,100.0,100.0,0.0
+fortinet federal,100.0,100.0,0.0
+together ai,100.0,100.0,0.0
+imec,100.0,100.0,0.0
+quera computing inc,100.0,100.0,0.0
+penn state institute for computational and data sciences,100.0,100.0,0.0
+san diego state university,100.0,100.0,0.0
+siam society for industrial and applied mathematics,100.0,100.0,0.0
+scitools,100.0,100.0,0.0
+istarusa group inc,100.0,100.0,0.0
+qumulo inc,100.0,100.0,0.0
+starnet communications,100.0,100.0,0.0
+brunspak worldwide inc,100.0,100.0,0.0
+optomind,100.0,100.0,0.0
+fiberstamp technology coltd,100.0,100.0,0.0
+openhpc,100.0,100.0,0.0
+open compute project foundation,100.0,100.0,0.0
+omni services,100.0,100.0,0.0
+eurohpc joint undertaking,100.0,100.0,0.0
+lda technologies,100.0,100.0,0.0
+lrlink,100.0,100.0,0.0
+prodesign electronic gmbh,100.0,100.0,0.0
+university of delaware,200.0,200.0,0.0
+adaptive computing,100.0,100.0,0.0
+nict,600.0,600.0,0.0
+kyushu university,400.0,400.0,0.0
+jetcool technologies,400.0,400.0,0.0
+thermal control technology,400.0,400.0,0.0
+tohoku university,400.0,400.0,0.0
+institute of science tokyo,400.0,400.0,0.0
+scinet help desk,400.0,400.0,0.0
+kek,400.0,400.0,0.0
+texas am,600.0,600.0,0.0
+mathworks,400.0,400.0,0.0
+cornelis networks,600.0,600.0,0.0
+renci,600.0,600.0,0.0
+runai,600.0,600.0,0.0
+rutgers office of advanced research computing oarc,600.0,600.0,0.0
+sk hynix,600.0,600.0,0.0
+advanced micro devices amd,600.0,600.0,0.0
+pittsburgh supercomputing center,600.0,600.0,0.0
+nsf access,400.0,400.0,0.0
+staubli,400.0,400.0,0.0
+affiliated engineers inc,100.0,100.0,0.0
+jamstec,400.0,400.0,0.0
+coolit systems,400.0,400.0,0.0
+cerebras systems,400.0,400.0,0.0
+celestica,400.0,400.0,0.0
+cmc osaka university,400.0,400.0,0.0
+cineca,400.0,400.0,0.0
+cea,400.0,400.0,0.0
+ccsjcahpc university of tsukuba,400.0,400.0,0.0
+japan aerospace exploration agency jaxa,400.0,400.0,0.0
+spectra logic,400.0,400.0,0.0
+samtec,400.0,400.0,0.0
+university of new mexico carc,400.0,400.0,0.0
+sserca,400.0,400.0,0.0
+lablup inc,400.0,400.0,0.0
+openmp arb,400.0,400.0,0.0
+neureality ltd,400.0,400.0,0.0
+liqid,400.0,400.0,0.0
+science and technology facilities council,600.0,600.0,0.0
+psncpionier polish optical internet,600.0,600.0,0.0
+starfish storage,600.0,600.0,0.0
+nextsilicon,1500.0,1500.0,0.0
+national center for highperformance computing,900.0,900.0,0.0
+leibniz supercomputing centre,900.0,900.0,0.0
+juelich supercomputing centre,900.0,900.0,0.0
+purdue university,1200.0,1200.0,0.0
+riken,1200.0,1200.0,0.0
+kaytus,1200.0,1200.0,0.0
+indiana university,1500.0,1500.0,0.0
+eviden,1500.0,1500.0,0.0
+altair,600.0,600.0,0.0
+national aeronautics and space administration nasa,1500.0,1500.0,0.0
+lenovo,1500.0,1500.0,0.0
+texas advanced computing center,1600.0,1600.0,0.0
+hewlett packard enterprise,2500.0,2500.0,0.0
+department of energy,2500.0,2500.0,0.0
+microsoft,2500.0,2500.0,0.0
+weka,2500.0,2500.0,0.0
+fraunhofer itwm,900.0,900.0,0.0
+virginia tech,900.0,900.0,0.0
+arizona research computing,800.0,800.0,0.0
+king abdullah university of science technology,800.0,800.0,0.0
+university of utah,600.0,600.0,0.0
+groq,600.0,600.0,0.0
+fujitsu limited,600.0,600.0,0.0
+internet2,600.0,600.0,0.0
+flash session,600.0,600.0,0.0
+ucl,600.0,600.0,0.0
+croit,600.0,600.0,0.0
+tu dresden,600.0,600.0,0.0
+university of maryland,600.0,600.0,0.0
+globus,600.0,600.0,0.0
+motivair,600.0,600.0,0.0
+mitac,600.0,600.0,0.0
+cxl consortium,800.0,800.0,0.0
+ohio supercomputer center open ondemand,800.0,800.0,0.0
+mghpcc,800.0,800.0,0.0
+bittware,400.0,400.0,0.0
+aist,400.0,400.0,0.0
+ace computers,400.0,400.0,0.0
+cscs eth zurich,200.0,200.0,0.0
+passport to prizes,200.0,200.0,0.0
+corehive computing,200.0,200.0,0.0
+quantum corporation,200.0,200.0,0.0
+naval research laboratory,200.0,200.0,0.0
+graid technology inc,200.0,200.0,0.0
+krell institute,200.0,200.0,0.0
+chenbro micom usa inc,200.0,200.0,0.0
+jaist,200.0,200.0,0.0
+ciena,200.0,200.0,0.0
+irish centre for highend computing,200.0,200.0,0.0
+ionq,200.0,200.0,0.0
+institute of industrial science the university of tokyo,200.0,200.0,0.0
+infinitetactics,200.0,200.0,0.0
+gri pumps,200.0,200.0,0.0
+it4innovations national supercomputing center,200.0,200.0,0.0
+cejn north america,200.0,200.0,0.0
+cornell university center for advanced computing,200.0,200.0,0.0
+parker hannifin,200.0,200.0,0.0
+dod hpcmp,200.0,200.0,0.0
+pacific wave,200.0,200.0,0.0
+almalinux,100.0,100.0,0.0
+apacer memory america inc,100.0,100.0,0.0
+avicena tech corp,100.0,100.0,0.0
+classiq technologies inc,100.0,100.0,0.0
+cloudian,100.0,100.0,0.0
+computer recovery associates,100.0,100.0,0.0
+cocalc by sagemath inc,100.0,100.0,0.0
+coalition for academic scientific computation casc,100.0,100.0,0.0
+queens university,200.0,200.0,0.0
+omnibond,200.0,200.0,0.0
+quobyte,200.0,200.0,0.0
+alces flight,200.0,200.0,0.0
+atempo,200.0,200.0,0.0
+asrock rack inc,200.0,200.0,0.0
+do it now,200.0,200.0,0.0
+hpcwire,200.0,200.0,0.0
+fivetech,200.0,200.0,0.0
+atipa technologies,400.0,400.0,0.0
+vultr,400.0,400.0,0.0
+untether ai,200.0,200.0,0.0
+research organization for information science and technology,200.0,200.0,0.0
+viavi solutions,200.0,200.0,0.0
+ingrasys technology usa inc,400.0,400.0,0.0
+eaton corporation,400.0,400.0,0.0
+western digital,400.0,400.0,0.0
+epcc the university of edinburgh,400.0,400.0,0.0
+itcjcahpc the university of tokyo,400.0,400.0,0.0
+rensselaer polytechnic institute,200.0,200.0,0.0
+european processor initiative,400.0,400.0,0.0
+iqm quantum computers,400.0,400.0,0.0
+infn cnaf,400.0,400.0,0.0
+ieee computer society,400.0,400.0,0.0
+asia supercomputer community,400.0,400.0,0.0
+gigaio,400.0,400.0,0.0
+barcelona supercomputing center,400.0,400.0,0.0
+texas tech university,200.0,200.0,0.0
+the digital research alliance of canada,200.0,200.0,0.0
+the university of tokyo,200.0,200.0,0.0
+speck industries lp,200.0,200.0,0.0
+national institute of informatics,200.0,200.0,0.0
+nara institute of science technology,200.0,200.0,0.0
+nagoya university,200.0,200.0,0.0
+cpc,200.0,200.0,0.0
+nsf center for space highperformance and resilient computing,200.0,200.0,0.0
+national security agency nsa,200.0,200.0,0.0
+nist national institute of standards and technology,200.0,200.0,0.0
+moog inc,200.0,200.0,0.0
+microway inc,200.0,200.0,0.0
+michigan state university,200.0,200.0,0.0
+chilldyne inc,200.0,200.0,0.0
+beehe electric taicang coltd,200.0,200.0,0.0
+danfoss power solutions,200.0,200.0,0.0
+university at buffalo center for computational research,200.0,200.0,0.0
+university of kentucky,200.0,200.0,0.0
+10gtek,100.0,100.0,0.0

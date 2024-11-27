@@ -1,0 +1,478 @@
+company name,booth number,booth area sqft
+atNorth,289,200
+Arcitecta,795,200
+National Security Agency (NSA),892,200
+Quandela,2601,400
+SQream,2501,100
+Data Center Solutions,2503,100
+NeuReality Ltd,325,400
+DigitalOcean,331,400
+Passport to Prizes,2199,200
+ASA Computers,692,100
+CMNO LTD,694,100
+Rittal GmbH & Co. KG,1,6
+"Microchip Technology, Inc.",3200,200
+Volex Inc.,3101,200
+Data in Science Corporation,555,500
+Chenbro Micom USA Inc.,2013,200
+Kalray,490,100
+University at Buffalo / Center for Computational Research,1686,200
+Rocky Mountain Advanced Computing Consortium (RMACC),2215,200
+Lightmatter,2209,200
+Bacula Systems Corp,1585,200
+"Moog, Inc.",1586,200
+"Chilldyne, Inc.",489,200
+Penguin Solutions,126,256
+SambaNova Systems,130,256
+SambaNova Systems,138,256
+Intel Corporation,152,256
+HPE,2321,225
+Oracle,2325,225
+Seagate,106,256
+GIGABYTE,112,256
+Altair,116,256
+"PIER Group, LLC",100,256
+Unifabrix,2315,225
+ASUS,298,225
+Rescale,398,225
+Carahsoft,498,225
+Kalray,598,225
+Quantum Machines,698,225
+Penguin Solutions,122,256
+"Microchip Technology, Inc.",2331,225
+BittWare,2333,225
+"National Supercomputing Centre (NSCC), A*STAR Research Entities",2335,225
+SIPEARL,299,225
+Ayar Labs,499,225
+dNOC,1238,100
+"Tongyu Electronics Co., Ltd",1391,100
+Computer Recovery Associates,1393,100
+EBARA Pumps Americas Corporation,1589,100
+JWS Technology,1591,100
+NEXGEN ANALYTICS,1684,100
+"Qumulo, Inc.",1690,100
+Intelligent Light,1715,100
+dNOC,1717,100
+Kyoto University,1729,200
+NTNU,1759,100
+dNOC,1771,100
+Avicena Tech Corp.,1791,100
+X-ISS,1838,100
+Hokkaido University,1858,100
+SciTools,1870,100
+Irish Centre for High-End Computing,1875,200
+ATEMPO,1974,200
+EuroHPC Joint Undertaking,204,100
+Kansai University,2059,100
+CSC-IT Center for Science / LUMI,206,200
+Alabama Supercomputer Authority,2138,100
+Almalinux,2158,100
+ACROSS & SEA projects,214,200
+IT4Innovations National Supercomputing Center,218,200
+Tachyum Inc.,2205,100
+Omni Services,2207,100
+SmartSoC Solutions Inc,2213,100
+Tatsuta Electric Wire&Cable Co.Ltd.,2233,100
+StarNet Communications,2235,100
+MIT Press,2245,100
+Advantech Corporation,2247,100
+Covalent,2249,100
+DUG Technology,2255,100
+Exostellar,232,100
+Tactical Computing Laboratories,234,100
+Cloudian,246,100
+National Institute of Informatics,256,200
+The Siemon Company,270,100
+"BizLink Technology, Inc.",272,100
+"Allion Labs, Inc.",286,100
+Enterprise Data Group,288,100
+Scientific Computing World,290,100
+Syncious,388,100
+Kitware,511,100
+Krell Institute,551,200
+dNOC,571,100
+Microway Inc.,610,200
+dNOC,614,100
+The Institute of Statistical Mathematics (ISM),670,100
+Reserved,914,100
+IBM,1925,800
+The University of Tokyo,1932,200
+Science and Technology Facilities Council,1935,600
+Preferred Networks Inc.,1936,100
+University of Southern California,1943,400
+INFN CNAF,1949,400
+Symbiosys Alliance,1955,600
+IEEE Computer Society,1963,400
+"Arm, Inc.",1969,400
+Nagoya University,1970,200
+Viking Enterprise Solutions,1975,400
+Boyd,200,200
+SourceCode,2001,400
+"Solid State Storage Technology Corporation, SSSTC",2007,400
+JAMSTEC,201,400
+Achronix Semiconductor Corporation,2019,400
+Tohoku University,2025,400
+GigaIO,2031,400
+AIC Inc.,2037,200
+Cerebras Systems,2043,400
+CINECA,2049,400
+MEGWARE Computer,2055,200
+Vertiv,2063,400
+IQM Quantum Computers,2069,400
+Z by HP,207,400
+Jonhon,2095,200
+2CRSi,2109,600
+croit GmbH,2117,600
+San Diego State University,212,100
+Ingrasys Technology USA Inc.,2125,400
+European Processor Initiative,213,400
+Nyriad Inc.,2131,400
+Hammerspace,2137,400
+UCL,2143,600
+Partnership for Advanced Computing in Europe (PRACE),2171,800
+Gnosis Research Center - Illinois Institute of Technology,2189,400
+NSF- ACCESS,219,400
+"APCON, Inc.",2194,100
+Graid Technology Inc.,2201,200
+Quobyte,2219,200
+Fujifilm Data Storage Solutions,2225,200
+CoreHive Computing,2237,200
+Alces Flight,224,200
+Rescale,225,400
+Ayar Labs,228,200
+The University of Tennessee,231,400
+CSCS / ETH Zurich,236,200
+Kyushu University,237,400
+Dolphin Interconnect Solutions AS,242,200
+Department of Energy,243,2500
+United States Research Software Engineer Association,248,100
+ASUS,257,600
+Colorado School of Mines,262,200
+MGHPCC,263,800
+Attendee Lounge,273,600
+CoCoLink Corp.,274,200
+Cornelis Networks,281,600
+QCT,301,400
+OpenMP ARB,307,400
+EPCC - The University of Edinburgh,313,400
+Samtec,319,400
+Seagate Technology,335,400
+GIGABYTE,355,600
+Run:ai,363,600
+Carahsoft,371,800
+Juelich Supercomputing Centre,401,900
+HLRS,409,900
+NCSA,417,900
+National Aeronautics and Space Administration (NASA),425,1500
+Panasas,437,600
+Google LLC,443,1500
+Virginia Tech,455,900
+Slurm,463,900
+KAYTUS SINGAPORE PTE. LTD.,471,1200
+LITEON,481,900
+Ohio Supercomputer Center & Open OnDemand,503,800
+HPCwire,513,200
+NEC Corporation,519,400
+Center for Translational Data Science - Open Commons Consortium,525,800
+SUSE LLC,535,600
+University of Utah,543,600
+Boston Limited,563,600
+Celestica,575,400
+Tokyo Institute of Technology,581,400
+Nokia,587,400
+Lenovo,601,1500
+Indiana University,609,1500
+Intel Corporation,617,1500
+Dell Technologies,625,1500
+Arc Compute,633,2000
+Weka,643,2500
+"NSF Center for Space, High-Performance, and Resilient Computing",650,200
+Korea Semiconductor Industry Association,663,2500
+Sunshine State Education And Research Computing Alliance,675,400
+SambaNova Systems,681,600
+Lablup Inc,689,400
+NextSilicon,863,1500
+DDC Cabinet Technology,775,400
+NICT,781,600
+AIST,801,400
+CoolIT Systems,807,400
+Numerical Algorithms Group,813,200
+Ace Computers,819,400
+Altair,825,600
+Quantum Corporation,833,200
+Cornell University Center for Advanced Computing,837,200
+Penguin Solutions,843,2500
+CMC - Osaka University,857,400
+OpenHPC,871,100
+JAIST,875,200
+University of Texas at Dallas,881,400
+Flatiron Institute,887,400
+AWS,1001,2500
+Hewlett Packard Enterprise,913,2500
+Microsoft,925,2500
+DoD HPCMP,932,200
+National Radio Astronomy Observatory,971,200
+CPC,974,200
+Arista Networks,981,400
+ProDesign Electronic GmbH,266,100
+SCinet Help Desk,987,400
+VIAVI Solutions,1070,200
+Cooltera Limited,1775,400
+Georgia Institute of Technology,957,600
+Malico Inc.,2251,100
+Texas Tech University,2075,200
+NSTDA Supercomputer Center (ThaiSC),2174,200
+Oracle,937,1000
+LR-LINK,488,100
+Flash Session,2195,600
+Hitachi Vantara,1981,600
+Internet2,1069,600
+SK hynix,2101,600
+HQS QuantumSimulations GmbH,975,100
+"ITC/JCAHPC, The University of Tokyo",1067,400
+Cornelis Networks,599,225
+SCinet,699,225
+Energy Efficient HPC Working Group,1389,100
+Penn State Institute for Computational and Data Sciences,1488,100
+"HSS - State Key Laboratory of High-end Server & Storage Technology, Asia Supercomputer Community",1989,400
+Maxwell Labs,1074,200
+QScale,250,300
+TotalView by Perforce,268,100
+"Bergen Language Design Laboratory, University of Bergen",873,100
+BIOS-IT,977,100
+"BRUNS-PAK WORLDWIDE, INC.",1492,100
+"FIBERSTAMP TECHNOLOGY CO.,LTD",1486,100
+cunoFS,1487,200
+Wolley Inc,2196,100
+Panmnesia,2253,100
+LDA Technologies,1733,100
+The George Washington University,1735,100
+OpenPOWER Foundation,1835,100
+Dynatron Corporation,1938,100
+Adaptive Computing,938,100
+"JMc Global TechnologiesI, L.P.",970,100
+Untether AI,2250,200
+Xinnor,389,100
+"Speck Industries, LP",1388,200
+Do IT Now,2151,200
+Submer,1043,300
+SCinet,1081,4500
+Advanced Micro Devices (AMD),1117,600
+Fujitsu Limited,1125,600
+"CCS/JCAHPC, University of Tsukuba",1133,400
+Juniper Networks,1169,400
+Pittsburgh Supercomputing Center,1203,600
+General Dynamics,1225,400
+MathWorks,1231,400
+Spectra Logic,1237,400
+Omnibond,1242,200
+Atipa Technologies,1243,400
+University of Kentucky,1246,200
+BittWare,1249,400
+California Institute of Technology /CACR,1255,600
+Japan Aerospace Exploration Agency (JAXA),1263,400
+Barcelona Supercomputing Center,1269,400
+SCinet Research Exposition,1275,400
+StarLight,1281,600
+SDSC,1319,800
+SUPERMICRO,1325,1600
+DDN - The Ai Data Company,1335,900
+VAST Data,1343,1600
+Pure Storage,1353,1600
+Texas Advanced Computing Center,1363,1600
+CoreWeave,1373,900
+GRI Pumps,1381,200
+Naval Research Laboratory,1385,200
+Pacific Wave,1480,200
+Parker Hannifin,1481,200
+HOLMANS USA CORPORATION,1484,100
+Mikros Technologies,1485,100
+Berkeley Communications,1490,100
+University of New Mexico - CARC,1511,400
+NCAR,1517,900
+Purdue University,1525,1200
+National Center for High-Performance Computing,1535,900
+CGG,1543,2000
+"ZIH, TU Dresden",1553,600
+Fraunhofer ITWM,1563,900
+KISTI,1571,1200
+NIST (National Institute of Standards and Technology),1580,200
+The Ohio State University,1581,200
+Orthogone,1584,100
+RIKEN,1611,1200
+King Abdullah University of Science & Technology,1625,800
+Mississippi State University,1635,600
+Globus,1653,600
+RENCI,1663,600
+Arizona Research Computing,1671,800
+The Ohio State University,1680,200
+Groq,1681,600
+Apaltek Co. Ltd.,1689,400
+ITBL Community,1701,400
+Tenstorrent,1707,600
+Staubli,1719,400
+Research Organization for Information Science and Technology,1725,200
+ASRock Rack Inc.,1737,200
+Advanced Computing Center for Research and Education,1743,1000
+Nara Institute of Science & Technology,1755,200
+Great Plains Network,1763,600
+JetCool Technologies,1781,400
+"BioTeam, Inc.",1787,100
+"Cooler Master Co., Ltd.",1801,1500
+PSNC & PIONIER - Polish Optical Internet,1809,600
+"Institute of Industrial Science, The University of Tokyo",1814,200
+Starfish Storage,1817,600
+NCI Pawsey Supercomputing Centre Australia,1824,100
+One Stop Systems,1825,600
+Michigan State University,1828,200
+Tuxera,1832,200
+SIAM - Society for Industrial and Applied Mathematics,1833,100
+CEJN North America,1837,200
+KEK,1843,400
+A*STAR NSCC Singapore,1849,400
+"CIQ: Fuzzball/HPC-2.0, Rocky Linux, Apptainer/Singularity, Warewulf",1855,600
+Rutgers Office of Advanced Research Computing (OARC),1863,600
+Rensselaer Polytechnic Institute,1871,200
+InfiniteTactics,1886,200
+Motivair,1909,600
+Tyan Computer Corporation,1917,600
+Danfoss Power Solutions,1995,200
+Crusoe,2094,200
+HPC Illuminations Pavilion,2901,600
+Strangeworks,2607,100
+UCit,2806,100
+Bluefors,2804,100
+QuEra Computing Inc.,2706,100
+IQM Quantum Computers,2707,100
+PASQAL,2705,100
+"Classiq Technologies, Inc.",2703,100
+Q.ANT GmbH,2701,100
+Vultr,2801,400
+"Eviden, an Atos business",655,1500
+Nimbus Data,1881,400
+"USystems, Brand of Legrand",1885,400
+"Micro-Star INT'L Co., Ltd.",1592,200
+ZutaCore,2600,200
+IonQ,2800,200
+Queen's University,2500,200
+CEA,2807,400
+"BEEHE Electric (Taicang) Co.,Ltd",3100,200
+Western Digital,3007,400
+Texas A&M University,3201,600
+AMAX,1491,200
+FriendliAI,901,400
+Thermal Control Technology,907,400
+The Digital Research Alliance of Canada,2081,200
+Wisetek,2180,200
+University of Maryland,1211,600
+Liqid,1219,400
+CXL Consortium,1301,800
+Leibniz Supercomputing Centre,1311,900
+nVent,1501,1200
+Lambda,1601,800
+Picotest,1396,100
+"Alliance Technology Group, LLC",1397,100
+Advanced Clustering Technologies,1395,100
+iStarUSA Group Inc,1497,100
+Sanyo Denki,1495,100
+Perifery,1596,100
+"MangoBoost, Inc.",1597,100
+Gateworks Corporation,1595,100
+HPC SYSTEMS Inc.,1593,100
+imec,1696,100
+Storj,1694,100
+Beswick Engineering,1692,100
+Eaton Corporation,1695,400
+NEUCHIPS INC.,2099,400
+Inventec Performance Chemicals,1797,100
+"Beijing Top Intelligent Co., Ltd.",1795,100
+iM,1793,100
+Quantum Machines,1896,100
+"CoCalc by SageMath, Inc.",1894,100
+Dihuni,1892,100
+Bulk Data Centers AS,1897,100
+Gospower,1895,100
+Midas Immersion Cooling,1891,100
+"QStar Technologies, Inc",1996,100
+DriveNets,1994,100
+TuxCare,1990,100
+"Apacer Memory America, Inc.",794,100
+Moreh,792,100
+Open Compute Project Foundation,895,100
+Xelera Technologies,897,100
+Fortinet Federal,994,100
+OPTOMIND,992,100
+"SiliconANGLE Media, Inc.",997,600
+SIPEARL,2229,100
+10Gtek,2231,100
+Fivetech,695,200
+Attendee Lounge sponsored by Vultr,495,600
+QuiX Quantum,2507,100
+StorONE,2606,100
+Computing Research Association,3107,100
+"DeepSpace Storage Systems, Inc.",3206,100
+Together AI,3109,100
+Ignitarium,3208,100
+NVIDIA,2323,225
+Enfabrica,798,225
+Lightmatter,898,225
+QCT,799,225
+Vertiv,899,225
+Student Cluster Challenge,2516,5472
+Enfabrica,586,200
+dNOC,2909,100
+ENET Solutions,3001,100
+Coalition for Academic Scientific Computation (CASC),3003,100
+T1Nexus,3209,100
+Affiliated Engineers Inc.,3301,100
+Iris Energy,3303,100
+NVIDIA Corporation,3305,100
+BAE Systems,JF1,100
+NREL,JF2,100
+Oak Ridge National Laboratory,JF3,100
+University of Virginia,JF5,100
+Purdue University,JF6,100
+RIKEN,JF7,100
+SambaNova Systems,JF8,100
+Lawrence Berkeley National Laboratory,JF9,100
+Fraunhofer ITWM,JF10,100
+Stanford & SLAC,JF11,100
+NCSA,JF12,100
+Type One Energy,JF13,100
+Together AI,JF14,100
+NVIDIA,JF15,100
+Hewlett Packard Enterprise,JF16,100
+Meta,JF17,100
+Cambridge Computer,JF18,100
+NSA,JF26,100
+University of Chicago Research Computing Center,JF27,100
+NASA Langley Research Center,JF28,100
+Cornelis Networks,JF29,100
+KLA,JF30,100
+St. Jude Children's Research Hospital,JF31,100
+Argonne National Laboratory,JF32,100
+Brookhaven National Lab,JF33,100
+Crusoe,JF34,100
+BioHPC - UT Southwestern Medical Center,JF35,100
+Ohio Supercomputer Center,JF36,100
+Tactical Computing Laboratories,JF37,100
+Leibniz Supercomputing Centre,JF38,100
+Indiana University,JF39,100
+NCAR,JF40,100
+University of North Carolina-Chapel Hill / Renaissance Computing Institute (RENCI),JF42,100
+General Dynamics Information Technology,JF43,100
+Pacific Northwest National Laboratory,JF44,100
+COMPAL,480,300
+"Shenzhen Gooxi Information Security Co., Ltd.",381,200
+Nexsan,385,100
+Micas Networks,2504,100
+PMC Technologies Inc,2506,100
+University of Delaware,1494,200
+PCI-SIG,1401,200
+SNIA,1403,400
+MemVerge,1407,200
+Lightelligence,1392,200
+InFlux Technologies Limited,789,200
+CIENA,886,200
+nVent,998,800
+Pawsey Supercomputing Research Centre,1826,100
